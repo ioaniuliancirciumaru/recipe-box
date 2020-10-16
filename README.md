@@ -7,4 +7,4 @@
 
 
 
-![](images/readme-image.png)
+![](readme-image.png)
